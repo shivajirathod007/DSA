@@ -41,6 +41,7 @@ int main()
             printf("Enter the corret choice..\n");
         }
     }
+    return 0;
 }
 
 void en()
